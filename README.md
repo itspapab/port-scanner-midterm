@@ -1,2 +1,2 @@
-# port-scanner-midterm
+# Midterm - Socket and Port Scanner
 Midterm - Port Scanner
